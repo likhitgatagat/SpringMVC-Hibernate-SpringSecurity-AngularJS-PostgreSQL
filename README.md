@@ -1,0 +1,2 @@
+# SpringMVC-Hibernate-SpringSecurity-AngularJS-PostgreSQL
+This is a sample project for integration of Spring MVC, Hibernate, Spring Security with front end as AngularJS and database as PostgreSQL. I have also managed to handle role based access mechanism that is widely needed in any enterprise application. For more details about application and on how to configure and run this application please refer README.md
